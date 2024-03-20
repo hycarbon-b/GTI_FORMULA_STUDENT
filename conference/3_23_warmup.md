@@ -13,10 +13,10 @@
   - 归档文件：
 ```
 小组需要提交的文件
--- Workspace
- |-- 3_24_warmup_conference
-   |-- word file and oother mateirials
-   |-- release
-     |-- pdf format document
-     |-- other reference (please name the file properly)
+-- Onedrive Workspace
+  |-- 3_24_warmup_conference
+      |-- word file and oother mateirials
+      |-- release
+          |-- pdf format document
+          |-- other reference (please name the file properly)
 ```
