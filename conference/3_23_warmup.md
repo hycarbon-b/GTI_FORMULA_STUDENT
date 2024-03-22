@@ -13,7 +13,7 @@
   - 归档文件：
 ```
 小组需要提交的文件
--- Onedrive Workspace
+-- Onedrive Workspace of the department
   |-- 3_24_warmup_conference
       |-- word file and oother mateirials
       |-- release
