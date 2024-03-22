@@ -1,20 +1,34 @@
 # Guidance  
 致 所有人：
-这里是广以方程式（GT Formula）的运营账户。如下是工作开始时需要注意的部分：
+这里是广以方程式（GT Formula）的运营账户。团队成员请仔细阅读这份说明。
 
 ## Github Project的使用
+- 注册github账号
 - 请将Github的名字（非账户名）改为完整的姓名。
-- 该project主要用于各部门成员的 work list 以及技术部门例行报告的文件存档。请注意：
-- 运营 与 技术各拥有一套 work list ，分别为 todo, in progress 及 done 三个部分。同时每个任务都存在 end date , 一般可在点击相应任务后查看.同时该账户拥有时间表，人员可以在该处看见任务的ddl。；P0，P1，P2 代表重要性，依次递减。
-任务的分配：点击相应任务，在“assignees"位置选择相应的人员，并且在comments处答复收到，并将任务状态改为”in progress"；若任务较长（超过一周），请将任务进度以一周为单位简短的记述；若需要与外部人员交流与交易，请将交易的金额与时间，交易的内容与数量，交易物品的去处（如线束交于电控组）清晰的记录，并在交易完成后将发票在comments左下角的回形针处将发票上传。  
-完成任务后，答复完成，并且将任务状态修改为Done，只有分配者有权限将任务移动至Done；请注意：运营与技术的任务各有一套位置，请注意不要将位置修改错误，或不修改。
-  
+- 申请github project的权限
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/6ecf77a4-f4ea-4b4d-9562-1bdbdfcf19fa)
+- Github Project将用于团队内各项任务的进度管理。
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/57a6d46a-a78b-4e19-89cf-1639f92fc8d6)
+
+- 任务的分配：
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/78e1d550-4ea7-4557-abee-28b8434c779f)
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/92b3ebb9-5379-4461-94ac-333474b59e9c)
+
+
 ## Onedrive的使用  
-由于可能的无法连接与文件大小的限制，我们将使用Onedrive存储常用的以及较大的文件。  onedrive 可由邮箱进入。  位置在邮箱最左边一列，蓝色云朵位置。  
-在未来，我们将进行两周一次的各部门meeting，需要各个部门进行进度汇报以及案列探讨。  
+- 请使用学校edu邮箱
+- 申请权限（和github步骤一样）
+- 通过outlook快捷进入onedrive
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/a95dc091-1e8c-416e-a2e1-7a3b13c0616d)
+- Workspace是团队工作所用的文件夹，请不要删除别人的文件
+    - 请不要删除别人的文件
+    - 不要直接放置文件，请创建文件夹后再放置文件
+    - 文件夹命名方式：`2024_3_Title_your name`
+  ![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/3bb2df3d-5027-4b73-be1a-75272ae5f427)
 
 
-## 任务分配、管理与执行
+
+
 
 ## Weekly meeting
 
