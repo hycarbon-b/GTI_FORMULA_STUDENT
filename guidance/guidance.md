@@ -25,15 +25,28 @@
     - 不要直接放置文件，请创建文件夹后再放置文件
     - 文件夹命名方式：`2024_3_Title_your name`
   ![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/3bb2df3d-5027-4b73-be1a-75272ae5f427)
+- Workspace中的一些资料：
+    - Public resource：用于存放一些技术资料，工程文件、素材，其它车队的论文等，自己也可以上传（请上传至`未归档`文件夹）
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/dcf82432-6063-4358-a521-9a7d7d049e1c)
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/f8260d99-39f9-4a08-bfa4-793a11b72d30)
 
 
+## Meeting
+- 每两周进行一次技术部门的Meeting
+- 每次Meeting前请在Worksapce/`your department`/ Meeting/中上传自己的Report文档
+- 文档命名： department_2024_3_Name
+- 请使用车队统一的Document Template
+- 文档需要包含：
+    - 前两周开展的工作/学习任务
+    - 工作/学习内容总结
+    - 所遇到的困难
+    - 下两周计划开展的工作
 
 
-
-## Weekly meeting
 
 ## 车队文档模板的使用 
-请使用文档模板制作车队内部的各项文档  
+Workspace的Templates中有文档、ppt的模板，请使用其中的模板制作各类资料  
+
 
 
 ## 提出问题  
