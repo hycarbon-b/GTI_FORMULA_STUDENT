@@ -41,8 +41,7 @@
     - 工作/学习内容展示
     - 所遇到的困难
     - 下两周计划开展的工作
-
-
+- 技术部门负责人在Workspace/Meeting记录.xlsv中登记每次Meeting的report上传情况
 
 ## 车队文档模板的使用 
 Workspace的Templates中有文档、ppt的模板，请使用其中的模板制作各类资料  
