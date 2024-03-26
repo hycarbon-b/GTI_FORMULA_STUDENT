@@ -4,7 +4,7 @@
 
 ## Github Project的使用
 - 注册github账号
-- 请将Github的名字（非账户名）改为完整的姓名。
+- 请将Github的名字（非账户名）改为完整的姓名 格式如：Juyi Bai or Bai Juyi
 - 申请github project的权限
 ![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/6ecf77a4-f4ea-4b4d-9562-1bdbdfcf19fa)
 - Github Project将用于团队内各项任务的进度管理。
