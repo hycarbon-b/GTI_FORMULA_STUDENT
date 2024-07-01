@@ -12,8 +12,8 @@ General information 电子系统开发：
 开发动力系统控制单元
 参考开源项目Speeduino v0.4：[https://wiki.speeduino.com/en/boards/V04]
 ## 熟悉ECU
-完成ECU硬件搭建
-- 打板
+完成ECU硬件搭建  
+- ~打板~
 - 焊接
 - 质检测试
 - 上位机使用
