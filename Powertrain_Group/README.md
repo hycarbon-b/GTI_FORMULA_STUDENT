@@ -15,6 +15,7 @@ Genaral infomation 内燃机测试, 物理建模及优化：
 - 精读五篇以上相关文献，总结并汇总在ppt上（或者文档），要求总结的内容结构清晰，要点突出，关键信息完整。
 - 学习combustion engine相关的公式和模型（文献中出现的）
 - 学会GT Power的基础使用（完整跟教程做完至少一个demo）
-文献：\Workspace_Powertrain&Drivetrain\literature\stage1
+- 搜集、补充、归档相关资料
+文献：\Workspace_Powertrain&Drivetrain\literature\stage1  
 GT Suite 下载链接：[https://pan.baidu.com/s/1WozlpIVFlNB2abuemI0HUw?pwd=so6v ]  
 GT 学习资料：[https://pan.baidu.com/s/1FSlEfTrBU3B4yP_EQXSkIw?pwd=X4LY ]
