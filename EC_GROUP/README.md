@@ -10,7 +10,7 @@ General information 电子系统开发：
 
 # ECU开发
 开发动力系统控制单元
-参考开源项目Speeduino v0.4：[https://wiki.speeduino.com/en/boards/V04]
+参考开源项目Speeduino v0.4：[https://wiki.speeduino.com/en/boards/V04]  
 Plan：
 ![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/e6f528cd-a016-4417-9ec3-57e840f80f12)
 
