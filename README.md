@@ -1,7 +1,21 @@
 # GTI Formula Student Team  
 这是车队团队协作Repo，**新人请仔细阅读[工作流的培训文档](guidance/guidance.md)**
 
-## 车队运营说明  
+## 财务报销
+
+1. 采购前先与项目负责人进行沟通
+2. 下载[报销单](https://1drv.ms/x/c/a720497950f42593/EbboyEx4zXlCjEF0srL2ltMBBiYaxJD-eaI1Q6LcqzEmrg?e=zxk29e)，如实填写
+3. 如有发票，请更改电子版发票的文件名后附在附件中
+4. 打包发送至`chen24879@gtiit.edu.cn`， 邮件标题： 报销申请 - Your name - 20XX.XX.XX
+
+
+
+
+
+
+
+
+## ~车队运营说明~  
 
 1. 新人必须仔细阅读[工作流的培训文档](guidance/guidance.md)
 2. 车队成员需要参加两类例行会议
