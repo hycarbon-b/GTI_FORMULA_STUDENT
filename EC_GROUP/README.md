@@ -8,18 +8,14 @@ General information 电子系统开发：
 - 理解CAN总线和其他车辆通信协议。
 - 掌握电子系统的故障诊断和测试方法。
 
-# ECU
+# ECU开发
 开发动力系统控制单元
 参考开源项目Speeduino v0.4：[https://wiki.speeduino.com/en/boards/V04]
-## 熟悉ECU
-完成ECU硬件搭建  
-- ~打板~
-- 焊接
-- 质检测试
-- 上位机使用
-- 生产报告
-- 上机测试
+Plan：
+![image](https://github.com/hycarbon-b/GTI_FORMULA_STUDENT/assets/63985695/e6f528cd-a016-4417-9ec3-57e840f80f12)
 
-## 适配发动机
+
+
+# ECU适配发动机
 TBD
 
